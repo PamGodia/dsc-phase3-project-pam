@@ -70,3 +70,11 @@ The model has a 71.16% chance of predictily correctly the negative and positive 
 RMSE is 0.336 which is better that the baseline model where the RMSE was negative.
 
 The model has a 33.6% chance of variability.
+
+## 5. Conclusion
+
+International Calls seems to be the main reason why customers may want to churn SyriaTel company
+
+It may be good to explore other variables such compare the international tarrifs by other companies in the same sector
+
+One can also explore the local costs for the competitors in the market
